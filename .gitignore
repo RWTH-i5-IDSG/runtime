@@ -1,2 +1,7 @@
 bin/
 .settings/
+/target
+.idea
+*.iml
+.DS_Store
+

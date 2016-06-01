@@ -46,7 +46,7 @@ import de.intarsys.tools.string.StringTools;
 
 /**
  * todo 1 nested traces todo 1 refactor "sample" changes in TimeMonitor todo 1
- * nicht matchende samples unterstützen
+ * nicht matchende samples unterstÃ¼tzen
  */
 public abstract class Monitor extends AbstractMonitor {
 	protected static final String TXT_VER_SEPARATOR = " | ";

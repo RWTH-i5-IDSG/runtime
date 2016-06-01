@@ -169,9 +169,9 @@ public class StreamTools {
 	}
 
 	/**
-	 * Kopiert einen Eingabedatenstrom auf einen Ausgabedatenstrom. Anschließend
-	 * (finally) werden die Datenströme geschlossen(!), sofern dies in den
-	 * Parametern angegeben wurde. Fehler beim Schließen der Datenströme werden
+	 * Kopiert einen Eingabedatenstrom auf einen Ausgabedatenstrom. AnschlieÃŸend
+	 * (finally) werden die DatenstrÃ¶me geschlossen(!), sofern dies in den
+	 * Parametern angegeben wurde. Fehler beim SchlieÃŸen der DatenstrÃ¶me werden
 	 * ignoriert.
 	 * 
 	 * @param source

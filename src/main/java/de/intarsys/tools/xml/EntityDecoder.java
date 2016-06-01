@@ -31,22 +31,22 @@ public class EntityDecoder extends DirectTagReader {
 					return "'";
 				}
 				if (tagContent.equals("auml")) {
-					return "ä";
+					return "Ã¤";
 				}
 				if (tagContent.equals("Auml")) {
-					return "Ä";
+					return "Ã„";
 				}
 				if (tagContent.equals("ouml")) {
-					return "ö";
+					return "Ã¶";
 				}
 				if (tagContent.equals("Ouml")) {
-					return "Ö";
+					return "Ã–";
 				}
 				if (tagContent.equals("uuml")) {
-					return "ü";
+					return "Ã¼";
 				}
 				if (tagContent.equals("Uuml")) {
-					return "Ü";
+					return "Ãœ";
 				}
 			} catch (Exception e) {
 			}
